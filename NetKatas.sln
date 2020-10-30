@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetKatas", "NetKatas\NetKatas.csproj", "{4693AE21-6D43-423C-970D-1095249489DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetKatas.Tests", "NetKatas.Tests\NetKatas.Tests.csproj", "{8FE718DF-B60E-4319-BB11-9E44528B9141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4693AE21-6D43-423C-970D-1095249489DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4693AE21-6D43-423C-970D-1095249489DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4693AE21-6D43-423C-970D-1095249489DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4693AE21-6D43-423C-970D-1095249489DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE718DF-B60E-4319-BB11-9E44528B9141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE718DF-B60E-4319-BB11-9E44528B9141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE718DF-B60E-4319-BB11-9E44528B9141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE718DF-B60E-4319-BB11-9E44528B9141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
